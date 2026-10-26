@@ -1,0 +1,17 @@
+{
+  "name": "町名でひまつぶし",
+  "short_name": "町名でひまつぶし",
+  "description": "島本町・高槻・茨木・摂津・枚方・寝屋川・四條畷・交野の町名を覚えるクイズアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1f3",
+  "theme_color": "#1f3f6e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
